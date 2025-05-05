@@ -21,10 +21,10 @@
 
 <div align="left">
   <div align="left">
-  <a href="https://www.linkedin.com/in/beurghy](https://www.linkedin.com/in/maxime-frossard-58776a34b/" target="_blank">
+  <a href="https://www.linkedin.com/in/maxime-frossard-58776a34b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <a href="[https://twitter.com/beurghy](https://x.com/beurghy2)" target="_blank">
+  <a href="https://x.com/beurghy2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter" />
   </a>
   <a href="https://discord.com/users/beurghy" target="_blank">
